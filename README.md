@@ -1,5 +1,5 @@
 # syriatel-churn-analysis
-# syriatel-customer-churn-
+
 ## Overview
 Our client, SyriaTel, is a telecommunication company and is suffering from a loss of valuable customers to competitors.
 
