@@ -16,6 +16,11 @@ Therefore, we are hired to help the management team understand what features are
 ### Exploratory Data Analysis
 1. Current Churn Rate = 14.5%
 2. Churn vs International Plan and Voice Mail Plan
+<p align="center">
+  <img src = "https://github.com/musairshad/syriatel-churn-analysis/blob/main/images/churn1.png" width="600" height="617"
+</p>
+
+
 
 
 
