@@ -16,4 +16,28 @@ Therefore, we are hired to help the management team understand what features are
 ### Exploratory Data Analysis
 1. Current Churn Rate = 14.5%
 2. Churn vs International Plan and Voice Mail Plan
-![churn1](churn1.png)
+
+
+
+
+3.Churn vs Customer Service Calls
+
+
+
+
+4. Churn vs Average Monthly Charge
+
+
+
+
+### Baseline model
+
+We built our baseline model following the below process: (1) Set target variable, features (using one-hot encoding on state), and train / test split (2) Instantiate a Logistic Regression (3) Preprocess the model with StandardScaler and SMOTE: (4) Reduce regularization
+
+
+
+
+
+
+
+
